@@ -15,15 +15,13 @@ Why Python?
 --> Python has rich modules that are designed to easily handle complex tasks.
 
 
-Datatypes in Python
--> String
--> Numeric --> Int
-           --> Float
--> Sequence --> List
-            --> Tuple
--> Mapping
--> Boolean
+Datatypes in Python:
+1. Numeric: int, float, custom.
+2. Sequence: string, list, tuple.
+3. Mapping: dict.
+4. Set: set, frozenset.
+5. Boolean: true or false.
+6. Binary: byte, bytearray.
+7. None: none.
+8. Custom: declare custom datatypes using classes and objects.
 
--> Python is a dynamically typed programming language -> No explicit declaration of variable datatype.
--> Python has various inbuilt functions.
--> Each datatype in python has inbuilt functions.
