@@ -22,3 +22,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+# While loop depends on num = num//10.
+
+# Time complexity = O(log10(n))
+# Space complexity = O(1)
